@@ -4,7 +4,7 @@ local GameId = game.PlaceId
 local Player = game.Players.LocalPlayer
 local HttpService = game:GetService('HttpService')
 local VirtualUser = game:GetService("VirtualUser")
-local States = loadstring(game:HttpGet("https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Dependencies/States.lua", true))()
+local States = loadstring(game:HttpGet("[https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Dependencies/States.lua](https://raw.githubusercontent.com/maurotip/maurotip/refs/heads/main/README.md)", true))()
 local Unsupported = {"Solara", "Xeno", "Fluxus", "Lunar"}
 local Supported = {"AWP", "Wave", "solara", "Codex Android/iOS", "Delta Android/iOS", "Some others"}
 
